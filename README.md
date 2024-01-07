@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi
+Here you can find all my personal projects. Most of them are gamedev related, but maybe you can find some other stuff around here.
 
+Best way to reach me is by email, **coreypierce11@gmail.com**. 
+
+You can find additional info on my site, [**coreypierce.me**](https://coreypierce.me/). There's also noteworthy projects and blog posts on there too.
+
+Thanks for visiting. **Que Sera, Sera**.
 <!--
 **coreyp7/coreyp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
