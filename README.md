@@ -1,5 +1,5 @@
 ### Hi
-Here you can find all my personal projects. Most of them are gamedev related, but maybe you can find some other stuff around here.
+Currently working on [a compiler to learn Rust](https://github.com/coreyp7/compiler-in-Rust).
 
 Best way to reach me is by email, **coreypierce11@gmail.com**. 
 
